@@ -1,0 +1,1 @@
+This error occurs when using the Expo Camera API and trying to access the camera's features before the camera has fully initialized.  This is often seen in components that mount and immediately attempt to use the camera. The camera needs time to load and prepare.
